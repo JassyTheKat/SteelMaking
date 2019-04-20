@@ -1,0 +1,16 @@
+[
+{
+  "modid": "steelmaking",
+  "name": "Steel Making",
+  "description": "Allows steel to be made",
+  "version": "2.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JasminePlaysMC"],
+  "credits": "Credit goes to JasminePlaysMC for making this mod giving the ability to make steel.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " i ",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "i": {
+            "type": "forge:ore_dict",
+            "ore": "ingotSteel"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+    "item": "steelmaking:steel_spade",
+    "data": 0
+  }
+}

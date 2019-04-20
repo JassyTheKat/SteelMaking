@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "steelmaking:items/steel_hoe"
+   }
+}

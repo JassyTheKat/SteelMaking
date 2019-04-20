@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "steelmaking:blocks/crusher_front_off",
+        "up": "steelmaking:blocks/crusher_front_off",
+        "down": "steelmaking:blocks/crusher_front_off",
+        "north": "steelmaking:blocks/crusher_front_off",
+        "east": "steelmaking:blocks/crusher_side1",
+        "south": "steelmaking:blocks/crusher_side3",
+        "west": "steelmaking:blocks/crusher_side2"
+    }
+}

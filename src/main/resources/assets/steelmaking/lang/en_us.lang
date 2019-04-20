@@ -1,0 +1,27 @@
+//Items
+item.steel_ingot.name=Steel Ingot
+item.steel_dust.name=Steel Dust
+item.coal_dust.name=Coal Dust
+item.iron_dust.name=Iron Dust
+
+//Blocks
+tile.steel_block.name=Steel Block
+
+//Tools
+item.steel_sword.name=Steel Sword
+item.steel_pickaxe.name=Steel Pickaxe
+item.steel_axe.name=Steel Axe
+item.steel_spade.name=Steel Shovel
+item.steel_hoe.name=Steel Hoe
+
+//Armor
+item.steel_helmet.name=Steel Helmet
+item.steel_chestplate.name=Steel Chestplate
+item.steel_leggings.name=Steel Leggings
+item.steel_boots.name=Steel Boots
+
+//Machines
+tile.crusher.name=Crusher
+
+//CreativeTab
+itemGroup.tabSteelMaking=Steel Making
